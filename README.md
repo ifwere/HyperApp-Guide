@@ -1,4 +1,4 @@
-# HyperApp 用户手册
+# HyperApp 用户手册 last forked 20171026
 
 [English version](./en/README.md) | 中文版
 
